@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm @scottblechman 👋
+
+- 👀 I’m interested in human-computer interaction and ambient computing
+- 🌱 I’m currently learning Firebase
+- 👯 I’m looking to collaborate on game development
+- 💬 Ask me about React
+- 😄 Pronouns: he/him
 
 <!--
 **scottblechman/scottblechman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
